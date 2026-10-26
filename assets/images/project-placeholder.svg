@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title">
+  <title id="title">Architectural project image placeholder</title>
+  <rect width="1200" height="760" fill="#d9d7ce"/>
+  <path d="M0 545 410 210l280 180 205-145 305 204v311H0z" fill="#b8b8ae"/>
+  <path d="M410 210h280v470H410zM690 390h205v290H690z" fill="#777d76"/>
+  <path d="M455 260h75v145h-75zm120 0h75v145h-75zm-120 190h75v190h-75zm120 0h75v190h-75zm160 0h65v110h-65zm100 0h60v110h-60z" fill="#d9d7ce"/>
+  <path d="M0 680h1200v80H0z" fill="#a7a79d"/>
+</svg>
